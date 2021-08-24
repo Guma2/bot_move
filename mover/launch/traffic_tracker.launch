@@ -1,0 +1,5 @@
+<launch>
+
+ <node name="traffic_node" pkg="task_c" type="traffic_tracker.py"  output="screen"></node>
+
+</launch>
